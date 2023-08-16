@@ -41,11 +41,8 @@ export default function AboutSection() {
               ,python for data processing , scripting and machine learning.
               Strong collaborator with excellent communication skills, working
               seamlessly with cross-functional teams to deliver successful
-              projects. Committed to continuous learning, staying up-to-date
-              with emerging technologies. Dedicated to crafting clean, efficient
-              code and creating intuitive user experiences. Explore my portfolio
-              to see examples of my work and let's connect to discuss potential
-              opportunities where my skills can make an impact
+              projects.Dedicated to crafting clean, efficient
+              code and creating intuitive user experiences. 
             </p>
 
             <button className={styles.hire_me_btn}>
