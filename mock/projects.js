@@ -59,11 +59,11 @@ export const projects = [
         github: "https://github.com/glennin-codes/imageOptimizer",
     },
     {
-        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686425635/2AABF7EA-27E0-410C-951C-076BE9B915D9_jgbeua.jpg",
-        name: "Trivia Api",
-        text: "Trvia App to create bonding experiences for employees and students.A Project I built during my Nanodegree program at Udacity.",
-        tools: "REACT,PYTHON,FLASK,SQLALCHEMY,POSTGRESQL",
-        link: "https://github.com/denzubechi/Trivia-Api",
+        img: "https://st2.depositphotos.com/4021139/5864/i/450/depositphotos_58644741-stock-photo-api-concept.jpg",
+        name: "PicsProcesser Api",
+        text: "an api to optimize and compress image",
+        tools: "Nodejs ,Sharp, Python",
+        link: "https://github.com/glennin-codes",
         github: "#",
     },
 
