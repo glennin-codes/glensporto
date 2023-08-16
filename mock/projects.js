@@ -1,0 +1,103 @@
+export const projects = [
+
+    {
+       
+        img: "https://ik.imagekit.io/hcmhqwy2h/191935988-8d4432f3-af36-4545-a63d-d9ca4dd4facb.png?updatedAt=1692225551585",
+        name: "Konect",
+        text: "A platform that connects Students within their industries for seamless collaboration, growth, and networking opportunities..#Currently building",
+        tools: "MERN STACK,REDUX,BOOTSTRAP,MATERIAL UI,KUbernetics,",
+        link: "comradesrentals.vercel.app",
+        github: "#",
+    },
+    {
+       
+        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686423660/portfolio_tqnaze.png",
+        name: "Portfolio",
+        text: "My portfolio website",
+        tools: "FRAMER MOTION, NEXTJS, SASS",
+        link: "https://nzubechi.vercel.app/",
+        github: "https://github.com/glennin-codes/glensporto",
+    },
+    {
+        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686423659/iStudy_heoxpv.png",
+        name: "iStudy",
+        text: "Freelanced on an admin panel for a study applications,and also built the backend APIs for the mobile applications.",
+        tools: "MERN STACK,BOOTSTRAP,FRAMER-MOTION,REDUX,MATERIAL-UI,KATEX,RECHARTS",
+        link: "https://www.istudyunleash.com/",
+        github: "#",
+    },
+    {
+        img: "https://ik.imagekit.io/hcmhqwy2h/Screenshot%20from%202023-08-17%2001-31-34.png?updatedAt=1692225136695",
+        name: "Spark Elcetronics",
+        text: "Ecommerce platform. I integrated admin dashboard and checkout processes using lipa na mpesa. ",
+        tools: "MERN STACK,REDUX,BOOTSTRAP",
+        link: "https://spark-sage.vercel.app/",
+        github: "https://github.com/glennin-codes/spark",
+    },
+    {
+        img: "https://ik.imagekit.io/hcmhqwy2h/Screenshot%20from%202023-08-17%2001-41-00.png?updatedAt=1692225719980",
+        name: "AiBetPredictor",
+        text: "Bet predictor app made with Machine learning ,neural networks and extensive deep learning techniques to be to predict a win ,a loss and draw based on extensive datas obtained from several apis",
+        tools: "Flask,Machine Learning, Neural Networks,Tensors,React,Mui",
+        link: "https://betlikeapro.vercel.app/",
+        github: "https://github.com/glennin-codes/betLikeApro",
+    },
+    {
+        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1681604559/netflix_zjpsht.png",
+        name: "Netflix-UI Clone",
+        text: "Netlflix home UI Clone",
+        tools: "REACT,FIREBASE,AXIOS,TMDB API",
+        link: "https://netflix-clone-4c94a.web.app/",
+        github: "#",
+    },
+    {
+        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686442422/tester_brvpxf.png",
+        name: "imageOptimizer",
+        text: "powerful image optimizer and compresser platform.you can use it to optimize and render you images fast and maintaining their quality as their original uploaded version",
+        tools: "EJS,JAVASCRIPT,SHARP API,EXPRESSJS,DOCKER,KUBERNETICS",
+        link: "https://imageoptimizer.onrender.com/",
+        github: "https://github.com/glennin-codes/imageOptimizer",
+    },
+    {
+        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686425635/2AABF7EA-27E0-410C-951C-076BE9B915D9_jgbeua.jpg",
+        name: "Trivia Api",
+        text: "Trvia App to create bonding experiences for employees and students.A Project I built during my Nanodegree program at Udacity.",
+        tools: "REACT,PYTHON,FLASK,SQLALCHEMY,POSTGRESQL",
+        link: "https://github.com/denzubechi/Trivia-Api",
+        github: "#",
+    },
+
+    {
+        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1681604555/preview_ajbo92.png",
+        name: "Spotify UI Clone",
+        text: "The Spotify UI clone with authentication",
+        tools: "REACT,CONTEXT-API,MATERIAL-UI,FLEXBOX",
+        link: "https://nzubechi-spotify-clone.netlify.app/",
+        github: "#",
+    },
+    {
+        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1681605697/fyurr_h5aubn.jpg",
+        name: "Fyurr",
+        text: "Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner.",
+        tools: "HTML,CSS,PYTHON,BOOTSTRAP,POSTGRESQL,FLASK",
+        link: "https://github.com/denzubechi/artist_booking-site",
+        github: "#",
+    },
+    
+    {
+        img: "https://ik.imagekit.io/hcmhqwy2h/Screenshot%20from%202023-08-17%2000-56-49.png?updatedAt=1692223048643",
+        name: "comradesBiz",
+        text: "maltivendor ecomerce platform for students to sell there products ,so effecient that it can handle high traffic users",
+        tools: "React,Nodejs,REDUX,MUI,Mongodb,Kubernetis and Docker",
+        link: "https://www.comradesbiz.live/",
+        github: "https://github.com/glennin-codes/Shopify",
+    },
+    {
+        img: "https://ik.imagekit.io/hcmhqwy2h/Screenshot%20from%202023-08-17%2001-19-45.png?updatedAt=1692224883431",
+        name: "LindaSpyro",
+        text: "Realtime chat application The backend is powered by Node.js while Socket.io facilitates seamless, bidirectional communication between clients and the server, enabling instantaneous message delivery and updates",
+        tools: "Node js ,socket.io, websockets,react and mui",
+        link: "https://lindaspyro.vercel.app/",
+        github: "https://github.com/glennin-codes/frontChartApp",
+    },
+]
