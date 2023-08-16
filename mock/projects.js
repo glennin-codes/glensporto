@@ -85,7 +85,7 @@ export const projects = [
     },
     
     {
-        img: "https://ik.imagekit.io/hcmhqwy2h/Screenshot%20from%202023-08-17%2000-56-49.png?updatedAt=1692223048643",
+        img: "https://ik.imagekit.io/hcmhqwy2h/com_WC3VaGmNu?updatedAt=1692228531394",
         name: "comradesBiz",
         text: "maltivendor ecomerce platform for students to sell there products ,so effecient that it can handle high traffic users",
         tools: "React,Nodejs,REDUX,MUI,Mongodb,Kubernetis and Docker",
