@@ -57,7 +57,7 @@ export default function AboutSection() {
               <div className={styles.about_me_main_s2}>
                 <img
                   //src={Memoji}
-                  src="https://ik.imagekit.io/hcmhqwy2h/WhatsApp%20Image%202023-08-17%20at%2001.59.20.jpeg?updatedAt=1692226876532"
+                  src="https://ik.imagekit.io/hcmhqwy2h/trey_UoQqyoHAo?updatedAt=1692228310359"
                   className={styles.about_me__memoji}
                   layout="fill"
                   alt="My memoji smiling face"

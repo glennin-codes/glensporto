@@ -2,10 +2,10 @@ export const projects = [
 
     {
        
-        img: "https://ik.imagekit.io/hcmhqwy2h/191935988-8d4432f3-af36-4545-a63d-d9ca4dd4facb.png?updatedAt=1692225551585",
-        name: "Konect",
-        text: "A platform that connects Students within their industries for seamless collaboration, growth, and networking opportunities..#Currently building",
-        tools: "MERN STACK,REDUX,BOOTSTRAP,MATERIAL UI,KUbernetics,",
+        img: "https://ik.imagekit.io/hcmhqwy2h/resized_3NA55re8r?updatedAt=1692227822455",
+        name: "ComradesRental",
+        text: "A platform that helps student acces rentals for eacy through a click and a search ..#Currently building",
+        tools: "MERN STACK,REDUX,BOOTSTRAP,MATERIAL UI,KUBERNETICS,",
         link: "comradesrentals.vercel.app",
         github: "#",
     },
