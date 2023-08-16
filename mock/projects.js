@@ -11,11 +11,11 @@ export const projects = [
     },
     {
        
-        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686423660/portfolio_tqnaze.png",
+        img: "https://ik.imagekit.io/hcmhqwy2h/Screenshot%20from%202023-08-17%2002-42-52.png?updatedAt=1692229400674",
         name: "Portfolio",
         text: "My portfolio website",
         tools: "FRAMER MOTION, NEXTJS, SASS",
-        link: "https://nzubechi.vercel.app/",
+        link: "https://glenportofolio.vercel.app/",
         github: "https://github.com/glennin-codes/glensporto",
     },
     {
@@ -51,7 +51,7 @@ export const projects = [
         github: "#",
     },
     {
-        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686442422/tester_brvpxf.png",
+        img: "https://ik.imagekit.io/hcmhqwy2h/Screenshot%20from%202023-08-17%2002-46-12.png?updatedAt=1692229602102",
         name: "imageOptimizer",
         text: "powerful image optimizer and compresser platform.you can use it to optimize and render you images fast and maintaining their quality as their original uploaded version",
         tools: "EJS,JAVASCRIPT,SHARP API,EXPRESSJS,DOCKER,KUBERNETICS",
