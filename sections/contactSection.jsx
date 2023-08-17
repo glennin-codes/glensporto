@@ -9,15 +9,15 @@ export default function ContactSection() {
           <h4>Got a project in mind?</h4>
           <h2>
             Get In Touch.{" "}
-            <Link href="mailto:ayiendaglen@gmail.com">
+            <Link href="mailto:info@glenayienda.tech">
               <Envelope color="#ABABAD" weight="regular" size={80} />
             </Link>
           </h2>
-          <Link href="mailto:ayiendaglen@gmail.com">
-            <p>ayiendaglen@gmail.com</p>
+          <Link href="mailto:info@glenayienda.tech">
+            <p>info@glenayienda.tech</p>
           </Link>
           <Link href="tel:+254713322025">
-            <p> +(254) 713 322 025</p><p> +254721929835</p>
+            <p> +(254) 713 322 025</p><p> +254 721 929 835</p>
           </Link>
         </section>
     

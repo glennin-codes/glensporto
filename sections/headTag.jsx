@@ -7,7 +7,7 @@ export default function HeadTag() {
       <title>Glen ayienda</title>
 
       <meta charset="utf-8" />
-      <link rel="icon" href="%PUBLIC_URL%/nzubechi.jpeg" />
+      <link rel="icon" href="https://ik.imagekit.io/hcmhqwy2h/MINE_K8HLvb73S?updatedAt=1692228193624" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta name="theme-color" content="#0a192f" />
       {/* <!-- Windows Phone --> */}
@@ -16,33 +16,33 @@ export default function HeadTag() {
       <meta name="apple-mobile-web-app-capable" content="yes" />
       <meta name="apple-mobile-web-app-status-bar-style" content="#0a192f" />
 
-      <link rel="apple-touch-icon" href="%PUBLIC_URL%/nzubechi.jpeg" />
+      <link rel="apple-touch-icon" href="https://ik.imagekit.io/hcmhqwy2h/MINE_K8HLvb73S?updatedAt=1692228193624" />
 
       <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
 
-      <link rel="icon" href="/nzubechi.jpeg" />
+      <link rel="icon" href="https://ik.imagekit.io/hcmhqwy2h/MINE_K8HLvb73S?updatedAt=1692228193624" />
 
       <meta
         name="description"
-        content={`Software Developer: Torche`}
+        content={`Software Engineer: Glen Ayienda`}
       />
       <meta
         name="image"
-        content={"/nzubechi.jpeg"}
+        content={"https://ik.imagekit.io/hcmhqwy2h/MINE_K8HLvb73S?updatedAt=1692228193624"}
       />
-      <meta name="keywords" content="Chukwuma Samuel Nzubechi" />
-      <link rel="shortcut icon" href="/nzubechi.jpeg"  style={{borderRadius:"50%"}}/>
+      <meta name="keywords" content="Glen Ayienda " />
+      <link rel="shortcut icon" href="https://ik.imagekit.io/hcmhqwy2h/MINE_K8HLvb73S?updatedAt=1692228193624"  style={{borderRadius:"50%"}}/>
 
-      <meta property="og:title" content={`Chukwuma Samuel Nzubechi`} />
+      <meta property="og:title" content={`Glen Ayienda `} />
       <meta
         property="og:description"
-        content={`Samuel Nzubechi Portfolio `}
+        content={`Glennin Technologies `}
       />
       <meta
         property="og:image"
-        content={"/nzubechi.jpeg"}
+        content={"https://ik.imagekit.io/hcmhqwy2h/MINE_K8HLvb73S?updatedAt=1692228193624"}
       />
-      <meta property="og:url" content={`https://nzubechi.vercel.app/`} />
+      <meta property="og:url" content={`https://www.glenayienda.tech/`} />
       <meta property="og:type" content="website" />
 
      
