@@ -36,8 +36,8 @@ export default function footerSection() {
           </div>
           <p className={styles.copy}>
             Copyright ©{" "}
-            <Link href="https://github.com/denzubechi">Samuel Nzubechi</Link>{" "}
-            2022, All rights reserved.
+            <Link href="https://github.com/glennin-codes">Glennin Technologies</Link>{" "}
+            2023, All rights reserved.
           </p>
         </div>
       </footer>
